@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MrRoy121
-- 👀 I’m interested in Amdroid Development
-- 🌱 I’m currently learning Flutter.
+- 👋 Hi, I’m Nilashish Roy
+- 👀 I’m an Android Developer
+- 🌱 I’ve strong hold on Java, Kotlin, Flutter in Android Development.
 - 💞️ I’m looking to collaborate on Android Or Game development
 - 📫 How to reach me ...nilashishroyjoy@gmail.com email me!
 
