@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mr Roy</h1>
+<h1 align="center">Hi 👋, I'm Nilashish Roy</h1>
 <h3 align="center">A passionate Software Engineer from Earth</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrroy121" alt="mrroy121" /></a> </p>
 
 - 🔭 I’m currently working on **Food Bank Management System**
 
-- 🌱 I’m currently Working in **Flutter/Java/Kotlin**
+- 🌱 I’m currently Working in **Flutter Firebase**
 
 - 💬 Ask me about **Flutter/Java/Kotlin**
 
