@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nilashishroyjoy@gmail.com**
 
-<h3 align="left">Connect with me:</h3>  <a href="https://bd.linkedin.com/in/nilashish-roy-b8a4a0171" target="_blank" rel="noreferrer"> **Nilashish Roy** </a>
+<h3 align="left">Connect with me:</h3>  <a href="https://bd.linkedin.com/in/nilashish-roy-b8a4a0171" target="_blank" rel="noreferrer"> Nilashish Roy </a>
 <p align="left">
 </p>
 
