@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nilashish Roy</h1>
 <h3 align="center">A passionate Software Engineer from Earth</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrroy121" alt="mrroy121" /></a> </p>
-
 - 🔭 I’m currently working on **Food Bank Management System**
 
 - 🌱 I’m currently Working in **Flutter Firebase**
 
 - 💬 Ask me about **Flutter/Java/Kotlin**
 
-- 📫 How to reach me **nilashishroy121@gmail.com**
+- 📫 How to reach me **nilashishroyjoy@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>  <a href="https://bd.linkedin.com/in/nilashish-roy-b8a4a0171" target="_blank" rel="noreferrer"> **Nilashish Roy** </a>
 <p align="left">
 </p>
 
